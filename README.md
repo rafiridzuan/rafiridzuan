@@ -1,78 +1,105 @@
-\<div align="center"\>
+# Hi, I'm Rafi Ridzuan 👋
 
-\<\!-- TYPING HEADER: Gempak sikit ada animation menaip \--\>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=640&lines=Web+Developer+%7C+Flutter+Enthusiast;ESP32+%26+IoT+Builder;Turning+Ideas+Into+Shippable+Products" />
+</div>
 
-\<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D36BCF7%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi%2Bthere,%2BI%27m%2BRafiridzuan\!%3BI%2Bturn%2Bcoffee%2Binto%2Bcode.%3BI%2Bbreak%2Bthings%2Bto%2Bfix%2Bthem.%3BWelcome%2Bto%2Bmy%2Bdigital%2Bgarden." alt="Typing SVG" /\>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Relational-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-Cross--Platform-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-IoT-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+</p>
 
-\<\!-- 3D TROPHIES: Nampak macam rak piala 3D \--\>
+---
 
-\<a href="https://github.com/ryo-ma/github-profile-trophy"\>  
-\<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Drafiridzuan%26theme%3Dflat%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="rafiridzuan" /\>  
-\</a\>  
-\</div\>
+## 🚀 About Me
 
-### **👨‍💻 About Me**
+I’m a **Web & Mobile Developer** who enjoys building things that actually ship.
+From **CRUD-heavy web apps** to **offline-first tools** and **IoT donation boxes**, I like systems that solve real problems and look good doing it.
 
-* 🔭 I’m currently working on **something cool (hopefully).**  
-* 🌱 I’m currently learning **how to center a \<div\> without crying.**  
-* 👯 I’m looking to collaborate on **Open Source projects.**  
-* 💬 Ask me about **why Java is not JavaScript.**  
-* ⚡ Fun fact: **I code faster when I don't know what I'm doing.**
+I believe good software should be:
 
-### **🛠 Tech Stack & Tools**
+* **Simple to use** 🧭
+* **Hard to break** 🧱
+* **Easy to scale** 📈
 
-*(My weapons of choice)*
+And yes, I do read error messages. Sometimes twice.
 
-\<div align="center"\>
+---
 
-\<\!-- Boleh tambah atau buang ikut skill hang \--\>
+## 🧠 What I’m Working On
 
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/javascript-%2523323330.svg%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3D%2523F7DF1E" /\>  
-\<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54" /\>  
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/php-%2523777BB4.svg%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" /\>  
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/laravel-%2523FF2D20.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlaravel%26logoColor%3Dwhite" /\>  
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/react-%252320232a.svg%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB" /\>  
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind\_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" /\>  
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/git-%2523F05033.svg%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" /\>  
-\</div\>
+### 🔗 SmartSadaqah
 
-### **📊 GitHub Analytics**
+A smart donation box powered by **ESP32 + color sensor**, with web integration and Telegram notifications.
 
-*(Numbers don't lie, but my commit history might)*
+> Tech meets trust. Charity, but make it smart.
 
-\<div align="center"\>
+### 📘 PokeBook
 
-\<\!-- GITHUB STATS CARD (Dark Theme) \--\>
+A **PHP 8 + MySQL** web application for managing Pokémon records.
+Admin CRUD, guest views, and clean architecture.
 
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drafiridzuan%26show\_icons%3Dtrue%26theme%3Dtokyonight%26hide\_border%3Dtrue%26bg\_color%3D00000000" alt="rafiridzuan's stats" height="180"/\>
+> Because even Pikachu deserves proper data management.
 
-\<\!-- TOP LANGUAGES CARD \--\>
+### 📊 KVOJTrack
 
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Drafiridzuan%26layout%3Dcompact%26theme%3Dtokyonight%26hide\_border%3Dtrue%26bg\_color%3D00000000" alt="rafiridzuan's languages" height="180"/\>
+An **offline-first internship tracker**.
+No login. No database. Data stays on your device using browser storage.
 
-\</div\>
+> Privacy-friendly, recruiter-approved, overthinking-resistant.
 
-\<\!-- ISOMETRIC COMMIT GRAPH (Visual 3D Commit) \--\>
+---
 
-\<\!-- Note: To make this work perfectly, you usually need a GitHub Action workflow.  
-But for now, this is a placeholder representing where that 3D magic happens.  
-If you want the real generated one, look up '3d-contrib-graph' action\! \--\>  
-\<div align="center"\>  
-\<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Drafiridzuan%26theme%3Dtokyonight%26hide\_border%3Dtrue%26date\_format%3Dj%2520M%255B%2520Y%255D" alt="streak stats"/\>  
-\</div\>  
-\<div align="center"\>
+## 🛠️ Tech Stack
 
-### **🤝 Connect with Me**
+**Frontend**
 
-\<a href="https://www.google.com/search?q=https://linkedin.com/in/rafiridzuan" target="\_blank"\>  
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/linkedin-%25230077B5.svg%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"\>  
-\</a\>  
-\<a href="https://www.google.com/search?q=https://twitter.com/rafiridzuan" target="\_blank"\>  
-\<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-%25231DA1F2.svg%3Fstyle%3Dfor-the-badge%26logo%3DTwitter%26logoColor%3Dwhite" alt="Twitter"\>  
-\</a\>  
-\<a href="mailto:your-email@example.com"\>  
-\<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white" alt="Email"\>  
-\</a\>  
-\<i\>"Debugging is like being the detective in a crime movie where you are also the murderer."\</i\> 🕵️‍♂️
+* HTML, CSS, JavaScript
+* Flutter
 
-\</div\>
+**Backend**
+
+* PHP 8
+* MySQL
+
+**IoT & Hardware**
+
+* ESP32
+* Sensors (Color, Motion, Servo)
+
+**Tools & Workflow**
+
+* Git & GitHub
+* XAMPP
+* VS Code
+
+---
+
+## 🌌 Visual Vibe (3D-ish Zone)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafiridzuan&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafiridzuan&theme=tokyonight&hide_border=true" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiridzuan&theme=tokyo-night&hide_border=true" />
+</div>
+
+> Not actual 3D, but close enough to impress recruiters at first glance 😄
+
+---
+
+## 📬 Let’s Connect
+
+* 💼 Looking for **Internship / Junior Roles** in Web or Mobile Development
+* 🌍 Open to relocation if accommodation is provided
+* 📫 Reach me via GitHub or LinkedIn (coming soon)
+
+---
+
+<div align="center">
+  <strong>Build things. Break things. Fix things. Repeat.</strong>
+</div>
