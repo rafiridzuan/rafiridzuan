@@ -88,7 +88,6 @@ No login. No database. Data stays on your device using browser storage.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiridzuan&theme=tokyo-night&hide_border=true" />
 </div>
 
-> Not actual 3D, but close enough to impress recruiters at first glance 😄
 
 ---
 
